@@ -10,4 +10,4 @@ For definitions of the fields, please see the [original reports](documents).
 
 ## See an error?
 
-Because the document was printed and then rescanned, the SIPRI data may have transcription errors. I've tried to fix as many as I can find. See another? Please [file an issue](https://github.com/data-is-plural/nuclear-explosions) or email me at [jsvine@gmail.com](mailto:jsvine@gmail.com).
+Because the SIPRI document was printed and then rescanned, the corresponding data may have transcription errors. I've tried to fix as many as I can find. See another? Please [file an issue](https://github.com/data-is-plural/nuclear-explosions) or email me at [jsvine@gmail.com](mailto:jsvine@gmail.com).
